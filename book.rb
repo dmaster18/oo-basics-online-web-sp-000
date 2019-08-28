@@ -13,4 +13,4 @@ class Book
   end
 end
 
-Book.GENRES
+Book.GENRES.push
