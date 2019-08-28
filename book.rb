@@ -13,4 +13,4 @@ class Book
   end
 end
 
-Book.GENRES.push("Thriller", )
+Book.GENRES.push("Thriller", "Biography", )
